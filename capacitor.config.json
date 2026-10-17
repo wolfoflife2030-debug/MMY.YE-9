@@ -1,0 +1,7 @@
+{
+  "appId": "ye.mmy.platform",
+  "appName": "MMY.YE",
+  "webDir": "www",
+  "backgroundColor": "#060A07",
+  "android": { "allowMixedContent": false }
+}
